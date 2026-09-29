@@ -110,3 +110,25 @@ Tipos extras:
 - Próximo efeito: ex-alunas passam a ser ativo de prova e distribuição
   (depoimentos, indicação/afiliação). Público comprador do digital a
   definir: [H] quem não pode pagar R$ 1.500 ou se deslocar.
+
+## 2026-09-29 — [F] Questionário de extração do método lido
+- Operando: sócias + CIP Strategist
+- O quê: questionário respondido pela expert salvo em
+  `inputs/questionario-extracao-metodo.md`. Principais fatos: aprendeu
+  com curso online porque não podia pagar o presencial; 3º lugar em
+  campeonato internacional; método progressivo em 4 etapas; posições
+  contrárias (sem fita no isolamento, sem cola em anel); dores da
+  iniciante ("não vou conseguir", quanto cobrar, captar clientes) e da
+  profissional (fans, volume em menos de 1h30); caso Aline.
+- Próximo efeito: brain.md ganhou personas A (iniciante) e B
+  (profissional), método e direções de promessa como [H].
+
+## 2026-09-29 — [H] Duas ofertas por persona e risco do "pegar na mão"
+- Operando: CIP Strategist
+- O quê: (1) o método progressivo da expert sugere ofertas separadas para
+  iniciante e profissional, não um combo único; (2) o diferencial dela
+  ("pegar na mão") não existe no curso gravado → o online provavelmente
+  precisa de um canal leve de correção; (3) a história de ter aprendido
+  online é a principal prova contra a objeção "dá para aprender online?".
+- Próximo efeito: validar com a expert na próxima reunião; definir qual
+  oferta vai primeiro por experimento de demanda no Instagram.

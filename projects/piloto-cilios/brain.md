@@ -4,19 +4,18 @@
 > o porquê em `journal.md`. Marcas: [F] fato (com fonte) · [H] hipótese ·
 > [D] decisão · [A] aprendizado.
 
-**Última atualização:** 2026-09-29 — onboarding em andamento (preços e
-base presencial conhecidos; ex-alunas descartadas como compradoras;
-questionário da expert ainda não lido).
+**Última atualização:** 2026-09-29 — onboarding quase completo:
+questionário de extração do método lido (`inputs/questionario-extracao-metodo.md`).
+Faltam: comprador do digital, suporte no online, provas.
 
 ## Próximo passo
 
-1. CIP lê o questionário de extração do método (anexo enviado pelas
-   sócias; salvar em `inputs/`).
-2. Definir quem é o comprador do digital (quem não pode pagar/se deslocar
-   para o presencial?) — responder perguntas abertas sobre origem e
-   objeções de quem não fecha o presencial.
-3. CIP entrega o diagnóstico, a proposta de promessa e o primeiro
-   movimento de receita.
+1. Sócias validam (com a expert, na próxima reunião) as direções de
+   promessa em "Posicionamento" e respondem: como o online entrega o
+   "pegar na mão" (correção por foto? grupo? live?) e quem pergunta pelo
+   presencial e não fecha.
+2. Experimento de demanda no Instagram (enquete + lista de espera) para
+   decidir qual oferta vai primeiro: iniciante ou profissional.
 
 ## Modelo de negócio
 
@@ -30,6 +29,11 @@ questionário da expert ainda não lido).
 
 - [F] Ana Flávia Batista. Forte autoridade no presencial; ministra cursos presenciais; atende no próprio Studio. (fonte: sócias)
 - [F] **Mais de 500 alunas formadas no presencial.** (fonte: sócias, 2026-09-29)
+- [F] História: formada em Radiologia (UFMG), trabalhou com tomografia em Curvelo/MG sem realização; empreendeu (loja de aluguel de ternos) e buscou várias rendas extras. Fez cílios como cliente, o olho inflamou (sem isolamento, cola na pele, produtos inadequados) → viu que na cidade ninguém fazia de forma correta e segura. (fonte: questionário, 2026-09-29)
+- [F] **Não podia pagar curso presencial → aprendeu com um curso online**, praticou na mãe, irmã, amigas e vizinhas, postando todo dia até aparecer a primeira cliente; atendia com maca emprestada dentro da loja. (fonte: questionário)
+- [F] Autoridade: convidada por causa dos resultados postados, conquistou **3º lugar em campeonato internacional** de extensão de cílios em São Paulo. Virou professora ~1 ano depois, pela procura. (fonte: questionário)
+- [F] Caso de aluna: Aline — praticou todo dia, mandava fotos para correção, se posicionou nas redes; há 4+ anos na área, ministra cursos, vive de cílios e sustenta a filha. (fonte: questionário)
+- [F] Outros casos: aluna muito insegura que fez cílios bonitos já na primeira modelo; aluna com dificuldade motora que hoje trabalha profissionalmente. (fonte: questionário)
 - [F] O presencial (~R$ 1.500) **já aborda o conteúdo dos 2 cursos digitais** → ex-alunas presenciais **não** são compradoras dos cursos. (fonte: sócias, 2026-09-29)
 - [H] As ex-alunas são ativo de **prova e distribuição**, não de venda direta: depoimentos, resultados, indicação (possível programa de afiliadas/indicação).
 - [H] Ex-alunas podem se interessar apenas pelo que o presencial não cobre (módulo administrativo, volumes tecnológicos, ebook campeonato) — só se esses itens não fizerem parte do presencial.
@@ -82,6 +86,22 @@ https://hotmart.com/pt-br/marketplace/produtos/curso-avancado-de-volume-3-em-1/O
 - [H] A proporção profissionais × clientes finais no Studio ainda não foi medida. Validar com enquete nos stories antes de investir em tráfego.
 - ~~[H] Ex-alunas presenciais são o público mais quente para o curso avançado.~~ Refutada: o presencial já cobre os 2 cursos. (2026-09-29)
 
+### Persona A — Iniciante (→ Lash Essencial) (fonte de tudo abaixo: questionário da expert)
+- [F] Quer: trabalhar para si, organizar a rotina, renda que dependa dela — nova profissão e liberdade.
+- [F] Maior medo: **"não vou conseguir fazer"** (não ter habilidade, investir e não conseguir atuar). Antes da 1ª cliente: não preencher todos os cílios, demorar demais, a cliente não gostar.
+- [F] Perguntas antes de comprar: valor; datas; "será que vou conseguir?"; onde comprar materiais; **quanto posso cobrar**.
+- [F] Crenças erradas: precisa de studio perfeito para começar; precisa estar no nível de quem atua há anos.
+- [F] Onde trava: desenhar e escolher o mapping; isolamento; acoplagem.
+- [F] Reclamações de quem já fez outro curso: não aprendeu teoria; não entendeu mapping; dificuldade de isolamento; baixa durabilidade; alergias; **não consegue atrair clientes**.
+- [F] Próxima dor depois da técnica: **captar clientes** e encher a agenda.
+- [H] O digital é justamente para quem, como a própria Ana no começo, não pode pagar o presencial.
+
+### Persona B — Profissional que já atende (→ Volumes / combo)
+- [F] Procura a Ana para Volume Russo/Mega Volume porque ela ensina a montar **fans de forma mais fácil** e o resultado impressiona.
+- [F] Dificuldades: montar fans; fazer volume em **menos de 1h30**.
+- [F] Erros comuns mesmo em profissionais: não preencher 100%; distância errada da raiz; cola em excesso; direcionamento ruim; canto interno mal preenchido.
+- [F] Visão da Ana: a profissional mediana fica presa aos fios tecnológicos; a excelente domina várias técnicas e sabe indicar a certa para cada cliente.
+
 ## Mercado
 
 - [F] A Hotmart tem muitos cursos de extensão/alongamento de cílios de outras produtoras, alguns a preços muito baixos (ex.: R$ 16,57). (fonte: busca web, 2026-09-29)
@@ -89,7 +109,22 @@ https://hotmart.com/pt-br/marketplace/produtos/curso-avancado-de-volume-3-em-1/O
 
 ## Posicionamento, mecanismo e oferta
 
-_Não definido._ Depende do conteúdo dos cursos e do diagnóstico de público.
+### Método (fonte: questionário)
+- [F] Aprendizado **progressivo**: primeiro a base de iniciante, depois aperfeiçoamento e tendências. Discorda de ensinar todas as técnicas de uma vez.
+- [F] 4 etapas: (1) base teórica — entender o porquê; (2) como executar corretamente; (3) **praticar por etapas, movimento por movimento**; (4) procedimento completo em modelo real, até atender sozinha.
+- [F] Ensina "ouvindo, vendo e praticando"; usa desenhos e vídeos; "pega na mão".
+- [F] Posições contrárias ao mercado: **não isola com fita e não usa cola em anel**.
+- [F] Critério de prontidão: domínio de isolamento e acoplagem nos exercícios; depois, constância (1 procedimento por dia + autoanálise nos primeiros 30 dias).
+- [F] Frase dela: "Você não precisa ter medo de começar, porque eu vou te ensinar, passo a passo, aquilo que deu certo para mim."
+
+### Direções de promessa (hipóteses para validar com a expert)
+- [H] **Iniciante:** "Aprenda extensão de cílios do zero, em casa, com o mesmo passo a passo que formou mais de 500 profissionais no presencial — e comece a atender sem precisar de studio perfeito."
+  - Prova-chave: a própria Ana aprendeu online porque não podia pagar o presencial. Isso responde à objeção "dá para aprender online?".
+  - Mecanismo candidato: prática por etapas (movimento por movimento) antes da modelo.
+- [H] **Profissional:** "Volume Russo e Mega Volume com fans fáceis de montar, em menos de 1h30, com acabamento de campeonato."
+- [H] O módulo "preço + administrativo" responde às dores "quanto cobrar" e "captar clientes" — pode ser o bônus decisivo das duas ofertas.
+- [H] Tensão: o método dela é progressivo, e o combo mistura temas. Talvez o certo sejam **duas ofertas separadas por persona** (iniciante / profissional), e não um combo para todas.
+- [H] **Risco central do digital:** o diferencial dela é "pegar na mão", e um curso gravado não faz isso. O online provavelmente precisa de um canal de correção (fotos dos trabalhos, como fazia a Aline) para cumprir a promessa. Isso custa tempo da expert: desenhar um formato leve (ex.: live mensal de correção ou grupo).
 
 ## Canais e ativos
 
@@ -97,6 +132,7 @@ _Não definido._ Depende do conteúdo dos cursos e do diagnóstico de público.
 - [F] Instagram pessoal — ~14 mil seguidores; uso pontual com posts em collab. (fonte: sócias)
 - [D] Foco de venda no Instagram do Studio, com posts compartilhados com o pessoal. (quem: sugestão da expert, aceita pelas sócias, 2026-09-29) — mantido; será validado por enquete.
 - [F] Vários depoimentos em vídeo de alunas do curso presencial no Instagram do Studio. (fonte: sócias)
+- Checklist de provas do questionário (fotos de alunas, antes/depois, prints, turmas, vídeos corrigindo) e a lista de 3–5 alunas-exemplo: **não preenchidos**.
 - [F] Hotmart: hospedagem dos cursos. (fonte: sócias)
 
 ## Objetivos e restrições
@@ -109,7 +145,9 @@ _Não definido._ Depende do conteúdo dos cursos e do diagnóstico de público.
 
 - De onde vêm as alunas do presencial (cidade/região)? Quem pergunta pelo curso e não fecha — por preço ou distância?
 - O presencial cobre o módulo administrativo, os volumes tecnológicos e o ebook campeonato?
-- As ex-alunas topariam indicar/afiliar-se ou gravar depoimento novo?
+- As ex-alunas topariam indicar/afiliar-se ou gravar depoimento novo? A Aline toparia ser o caso principal?
+- Como o online vai entregar o "pegar na mão"? Haverá suporte/correção? Quanto tempo a expert topa dedicar a isso?
+- Quais provas existem (checklist do questionário) e quais 3–5 alunas são os melhores exemplos?
 - Quem comprou em 2023 (avaliações)? Há lista de compradoras na Hotmart?
 - Os cursos dão certificado (a página do iniciante se contradiz)?
 - O combo de R$ 497 inclui o básico? Os cursos de volume do combo são o mesmo "Volume 3 em 1" ou gravações separadas? O módulo administrativo já está gravado?
