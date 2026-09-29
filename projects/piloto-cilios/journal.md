@@ -146,3 +146,16 @@ Tipos extras:
 - [D proposta] Não revelar preço na semana 1.
 - Entrega: `work/teste-demanda-semana-1.md`. Status: precisa aprovação da expert.
 - Resultado: _pendente_.
+
+## 2026-09-29 — [D] VTSD como framework Primary do piloto
+- Operando: sócias + CIP Strategist
+- O quê: o método Venda Todo Santo Dia (Leandro Ladeira) passa a ser o
+  framework estratégico principal deste projeto.
+- Base:
+  - Decisão das sócias (uso recorrente do método nos produtos digitais).
+  - Interpretação CIP: o diagnóstico e o teste de demanda atuais foram
+    feitos sem o VTSD ("CIP Native").
+- Próximo efeito: teste de demanda da semana 1 fica em espera; após o
+  mapeamento do VTSD, revisar diagnóstico, promessas e teste, registrando
+  onde o VTSD confirma ou muda as recomendações (primeiro teste real do
+  framework).

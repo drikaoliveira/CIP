@@ -45,11 +45,52 @@ Regras:
 - Aprovação, rejeição e edição humana são dados: registre-as como [A]
   quando revelarem uma preferência ou critério.
 
+Orientação de framework externo leva marca própria, **sempre com fonte**:
+
+- **[VTSD-S03 p.12]** — orientação metodológica do framework. **Não é
+  fato**: diz o que o método orienta, não o que é verdade neste mercado.
+  Uma hipótese derivada fica `[H] (a partir de VTSD-S03) ...`.
+
+Toda **decisão** relevante no journal traz um campo **Base**, separando as
+origens: framework (com citação) · evidência do projeto · interpretação
+CIP · conhecimento geral.
+
+## Frameworks estratégicos
+
+Frameworks são métodos externos (ex.: VTSD, de Leandro Ladeira). Ficam em
+`frameworks/<nome>/` e **não** são princípios da CIP.
+
+Cada projeto declara no seu `CLAUDE.md` a seção "Frameworks estratégicos":
+
+- **Primary** — consulta obrigatória em decisões dentro do escopo do
+  método; é o ponto de partida. Desviar exige registrar a tensão.
+- **Secondary** — consultar quando relevante; gera alternativas e
+  hipóteses, mas não prevalece sobre o raciocínio da CIP.
+- **Ausente / "CIP Native"** — não aplicar, salvo pedido explícito.
+
+Regras:
+- **Nunca atribua a um framework algo que não esteja no seu `map.md` ou
+  nas fontes** (`frameworks/<nome>/sources/`). Na dúvida, é interpretação
+  CIP. Se o método não cobre o tema, diga "o framework não cobre isso".
+- Aprendizados nunca alteram o framework: "aplicamos X e observamos Y" vai
+  para o journal como [A]; o `map.md` só muda se as fontes mudarem ou se
+  o mapa estiver errado em relação a elas.
+- **Tensão** entre framework e contexto/evidência, quando material para a
+  decisão: explique (1) o que o framework orienta; (2) o que o contexto ou
+  a evidência mostra; (3) alternativas; (4) recomendação; (5) por quê.
+
 ## Estrutura
 
 - `strategic-brain/` — conhecimento transversal da CIP.
   - `principles.md` — como pensamos. Leia no início de trabalhos estratégicos.
   - `learnings.md` — aprendizados validados entre projetos.
+- `frameworks/<nome>/` — métodos externos.
+  - `sources/` — materiais originais, **nunca editados**, + texto extraído
+    (`.txt`) para busca.
+  - `SOURCES.md` — índice das fontes com IDs (`VTSD-S01`…).
+  - `map.md` — mapa operacional; toda afirmação cita a fonte; notas da
+    CIP marcadas como "Nota CIP"; lacunas explícitas.
+- `.claude/skills/<nome>/` — como aplicar um framework (quando existir).
 - `projects/<projeto>/` — um diretório por projeto (Project Brain).
   - `CLAUDE.md` — contexto e regras do projeto.
   - `brain.md` — **estado atual** do projeto. Reescrito quando o
@@ -61,7 +102,8 @@ Regras:
 ## Isolamento entre projetos
 
 Trabalhe em **um projeto por vez**. Não leia nem cite arquivos de outros
-projetos. Conhecimento só atravessa projetos via `strategic-brain/`.
+projetos. Conhecimento só atravessa projetos via `strategic-brain/` e
+`frameworks/`.
 
 Um aprendizado só vai para `strategic-brain/learnings.md` quando tem
 evidência em 2+ projetos **ou** aprovação humana explícita — e sempre com

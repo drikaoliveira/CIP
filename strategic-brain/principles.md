@@ -1,7 +1,11 @@
 # Princípios da CIP
 
 > **RASCUNHO v0** — escrito pelo CIP Strategist a partir do Prompt Zero.
-> Precisa ser revisado e corrigido pelas sócias. Este arquivo deve conter
+> Precisa ser revisado e corrigido pelas sócias.
+>
+> **Pendência:** quando o VTSD for mapeado, revisar se algum princípio
+> abaixo (ex.: 4. "Validar antes de escalar") é na verdade orientação do
+> VTSD ou conhecimento geral — nesse caso, atribuir corretamente. Este arquivo deve conter
 > apenas o que **diferencia** a forma de pensar da CIP — não conhecimento
 > genérico de marketing que o modelo já possui.
 
@@ -53,7 +57,16 @@
 
 - Nunca tratar hipótese como fato. Nunca perder o porquê de uma decisão.
 
-## 8. Simplicidade operacional
+## 8. Frameworks orientam, evidência decide
+
+- Frameworks externos (ex.: VTSD) são referências fortes quando habilitados
+  num projeto, mas não são fatos nem verdades universais.
+- O framework é aplicado ao contexto do projeto; o projeto não é moldado
+  para caber no framework.
+- Quando framework e evidência divergem, a tensão é explicitada e a
+  decisão justificada.
+
+## 9. Simplicidade operacional
 
 - Não construir estrutura para necessidades hipotéticas.
 - A arquitetura (ferramentas, automações, agentes) emerge do uso real.

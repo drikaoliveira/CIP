@@ -12,6 +12,7 @@ Formato:
 - Contexto: persona / estágio do funil / tipo de oferta / canal
 - Evidência: projetos, experimentos e dados que sustentam (link p/ journal)
 - Força: fraca | moderada | forte
+- Framework relacionado: (opcional) ex.: VTSD-S03 p.12 — orientação testada
 - Registrado em: AAAA-MM-DD por <quem>
 ```
 

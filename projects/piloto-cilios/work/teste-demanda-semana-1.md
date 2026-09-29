@@ -1,6 +1,7 @@
 # Teste de demanda — Semana 1 (Instagram do Studio)
 
-> **Status:** RASCUNHO v1 — **precisa aprovação da expert** antes de publicar.
+> **Status:** RASCUNHO v1 — **EM ESPERA**: será revisado à luz do VTSD
+> (framework Primary do projeto) antes de ir para aprovação da expert.
 > Escrito pelo CIP Strategist em 2026-09-29. Editem à vontade: as edições
 > viram aprendizado (o CIP compara versões no git).
 

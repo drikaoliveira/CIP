@@ -14,9 +14,10 @@ Faltam: comprador do digital, suporte no online, provas.
    promessa em "Posicionamento" e respondem: como o online entrega o
    "pegar na mão" (correção por foto? grupo? live?) e quem pergunta pelo
    presencial e não fecha.
-2. Aprovar com a Ana e rodar o teste de demanda da semana 1
-   (`work/teste-demanda-semana-1.md`); registrar resultados em `inputs/`.
-3. Ao fim da semana: CIP analisa e decide a primeira oferta.
+2. **VTSD definido como framework Primary.** Mapear o VTSD
+   (`frameworks/vtsd/`) e revisar à luz dele o diagnóstico, as promessas
+   e o teste de demanda (`work/teste-demanda-semana-1.md` — em espera).
+3. Rodar o teste revisado e decidir a primeira oferta.
 
 ## Modelo de negócio
 

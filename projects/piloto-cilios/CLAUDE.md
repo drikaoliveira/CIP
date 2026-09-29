@@ -9,6 +9,14 @@ CIP realmente precisa.
 1. `brain.md` — estado atual do projeto.
 2. Últimas ~10 entradas de `journal.md`.
 
+## Frameworks estratégicos
+
+- Primary: VTSD
+- Secondary: —
+
+(decidido pelas sócias em 2026-09-29; Skill VTSD ainda não existe —
+enquanto isso, consultar `frameworks/vtsd/map.md` quando estiver pronto)
+
 ## Regras específicas deste projeto
 
 - **Coprodução:** as sócias da CIP operam; a expert é parceira e dona da
