@@ -4,15 +4,14 @@
 > o porquê em `journal.md`. Marcas: [F] fato (com fonte) · [H] hipótese ·
 > [D] decisão · [A] aprendizado.
 
-**Última atualização:** 2026-09-29 — onboarding em andamento (dados básicos
-de negócio, produtos e canais coletados; conteúdo dos cursos e dados de
-audiência ainda pendentes).
+**Última atualização:** 2026-09-29 — onboarding em andamento (páginas
+Hotmart lidas; preço, histórico de vendas e dados de audiência pendentes).
 
 ## Próximo passo
 
-1. Operadoras colam em `inputs/` o conteúdo das páginas Hotmart dos dois
-   cursos (descrição, módulos, preço, garantia) e os insights do Instagram
-   do Studio (idade, cidade, alcance médio de stories).
+1. Sócias respondem: preço dos cursos, histórico da conta "Estetica e Cia
+   Ead" / vendas de 2023, e colam em `inputs/` os insights do Instagram do
+   Studio (idade, cidade, alcance médio de stories).
 2. Levantar quantas alunas presenciais existem e se há contato delas.
 3. Com isso, CIP entrega o diagnóstico e a recomendação do primeiro
    movimento de receita.
@@ -33,19 +32,36 @@ audiência ainda pendentes).
 
 ## Produtos
 
-- [F] Dois cursos digitais gravados, na Hotmart, **vendas ainda não iniciadas**: (fonte: sócias, 2026-09-29)
-  1. "Curso de Alongamento de Cílios" — https://hotmart.com/pt-br/marketplace/produtos/curso-de-alongamento-de-cilios-por-ana-flavia-batista/R31388413B
-  2. "Curso Avançado de Volume 3 em 1" — https://hotmart.com/pt-br/marketplace/produtos/curso-avancado-de-volume-3-em-1/O36455134I
-- Conteúdo, módulos, preço, garantia e bônus: _pendente_ (páginas não acessíveis a partir do ambiente da CIP).
-- [H] Os dois cursos formam uma escada natural: iniciante → avançado (entrada + upsell/continuidade).
-- [H] O avançado pode ser a venda mais fácil no curto prazo para quem já é profissional ou ex-aluna presencial.
+- [F] Dois cursos digitais gravados na Hotmart; sócias informam que **vendas não foram iniciadas** pela coprodução. (fonte: sócias, 2026-09-29)
+- [F] Conta produtora na Hotmart: "Estetica e Cia Ead"; tag do produto 1 inclui "sinceronaflix". (fonte: página Hotmart, 2026-09-29)
+- [F] Os dois produtos têm avaliações de alunos datadas de fev/2023 → houve compradores no passado. (fonte: página Hotmart, 2026-09-29) — _ver perguntas abertas._
+
+### 1. Formação Lash Essencial by Ana Flávia Batista (iniciante)
+https://hotmart.com/pt-br/marketplace/produtos/curso-de-alongamento-de-cilios-por-ana-flavia-batista/R31388413B
+- [F] Nome público na Hotmart é "Formação Lash Essencial", não "Curso de Alongamento de Cílios". (fonte: página Hotmart)
+- [F] Promessa: "Do zero aos primeiros passos como Lash Designer, com técnica, segurança e confiança". Público: quem nunca trabalhou com cílios ou quer fortalecer a base. (fonte: página Hotmart)
+- [F] Conteúdo: 5 módulos, ~27 aulas — Apresentação; Técnica (história, técnicas); Teoria (anatomia, ciclo dos fios, contraindicações, materiais, adesivo, fios, acoplagem, direcionamento, mapping); Prática (higienização, biossegurança, isolamento, mapping, passo a passo, pós-procedimento, foto antes/depois); Exercícios (mapping, treino na boneca básico/avançado). Foco em Clássico Fio a Fio + introdução ao volume. (fonte: página Hotmart)
+- [F] Garantia 7 dias; 1 avaliação (5,0). Menciona "bônus em volumes tecnológicos" e "certificação internacional", mas a ficha técnica marca certificado = não. (fonte: página Hotmart)
+- Preço: não visível na página pública.
+
+### 2. Curso Avançado de Volume 3 em 1
+https://hotmart.com/pt-br/marketplace/produtos/curso-avancado-de-volume-3-em-1/O36455134I
+- [F] Técnicas: volume 3 em 1, volume russo, volume híbrido, mega volume; tópicos: materiais, ciclo dos fios, montagem de fans, cristalização, camadas, top line, perfect line, manutenção, remoção. (fonte: página Hotmart)
+- [F] Ficha técnica: duração 8 (provavelmente horas), com certificado, garantia 7 dias; 2 avaliações (4,0). Descrição sem módulos detalhados e sem bônus. (fonte: página Hotmart)
+- Preço: não visível na página pública.
+
+### Leitura
+- [H] Os dois cursos formam uma escada natural: iniciante (Lash Essencial) → avançado (Volume 3 em 1).
+- [H] O avançado pode ser a venda mais fácil no curto prazo para profissionais e ex-alunas presenciais.
+- [H] As páginas atuais não vendem: sem prova, sem depoimentos, sem módulos no avançado, sem a autoridade presencial da Ana Flávia, com inconsistência de certificado. Não servem como página de vendas da coprodução.
 
 ## Público / Persona
 
 - [H] Há **dois públicos distintos** que não devem ser confundidos:
   - clientes finais do Studio (querem fazer cílios);
   - alunas/profissionais (querem aprender ou evoluir na técnica) — este é o público dos cursos.
-- [H] O Instagram do Studio provavelmente é dominado por clientes finais, não por potenciais alunas. **Hipótese crítica** — se verdadeira, muda a estratégia de canal.
+- [F] Segundo a expert, muitos profissionais do ramo e alunas seguem o Instagram do Studio; a escolha do Studio como canal foi sugestão dela. (fonte: expert via sócias, 2026-09-29)
+- [H] A proporção profissionais × clientes finais no Studio ainda não foi medida. Validar com enquete nos stories antes de investir em tráfego.
 - [H] Ex-alunas presenciais são o público mais quente para o curso avançado.
 
 ## Mercado
@@ -61,7 +77,7 @@ _Não definido._ Depende do conteúdo dos cursos e do diagnóstico de público.
 
 - [F] Instagram do Studio — ~10 mil seguidores; será o canal principal de venda dos cursos. (fonte: sócias)
 - [F] Instagram pessoal — ~14 mil seguidores; uso pontual com posts em collab. (fonte: sócias)
-- [D] Foco de venda no Instagram do Studio, com posts compartilhados com o pessoal. (quem: sócias, 2026-09-29) — _a revisar se a hipótese de público se confirmar._
+- [D] Foco de venda no Instagram do Studio, com posts compartilhados com o pessoal. (quem: sugestão da expert, aceita pelas sócias, 2026-09-29) — mantido; será validado por enquete.
 - [F] Vários depoimentos em vídeo de alunas do curso presencial no Instagram do Studio. (fonte: sócias)
 - [F] Hotmart: hospedagem dos cursos. (fonte: sócias)
 
@@ -73,10 +89,11 @@ _Não definido._ Depende do conteúdo dos cursos e do diagnóstico de público.
 
 ## Perguntas abertas
 
-- Conteúdo, preço atual, garantia e bônus de cada curso?
+- Preço atual de cada curso?
+- Quem é "Estetica e Cia Ead" (conta produtora) e o que é "sinceronaflix"? Os cursos já foram vendidos antes por outra parceria/plataforma? Quem recebe hoje as vendas?
+- Os cursos dão certificado (a página do iniciante se contradiz)?
 - Quantas alunas presenciais já passaram pelos cursos? Há WhatsApp/e-mail delas?
 - Preço do curso presencial (âncora de valor)?
 - Perfil real da audiência do Studio (insights: idade, cidade, % profissionais)?
 - Alcance médio de stories em cada perfil?
 - Meta de receita e prazo esperados pelas sócias e pela expert?
-- Por que o Studio e não o pessoal como canal principal? (o pessoal tem mais seguidores)

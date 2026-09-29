@@ -65,3 +65,24 @@ Tipos extras:
   Instagram não acessíveis do ambiente (bloqueio de rede).
 - Próximo efeito: [H] diferenciação precisa vir da autoridade presencial e
   da prova real; conteúdo dos cursos deve ser colado em inputs/.
+
+## 2026-09-29 — [F] Páginas Hotmart dos cursos lidas
+- Operando: sócias + CIP Strategist
+- O quê: acesso à Hotmart liberado. Curso 1 se chama publicamente
+  "Formação Lash Essencial by Ana Flávia Batista" (5 módulos, ~27 aulas,
+  clássico fio a fio + intro volume). Curso 2 "Avançado de Volume 3 em 1"
+  (3 em 1, russo, híbrido, mega volume; 8h; certificado). Garantia 7 dias
+  nos dois. Preço não visível. Conta produtora "Estetica e Cia Ead";
+  avaliações de fev/2023 (1 e 2 avaliações). Instagram segue inacessível
+  (HTTP 429 / exige login).
+- Por quê importa: avaliações de 2023 indicam vendas passadas — pode haver
+  histórico, compradoras e questões de titularidade a esclarecer.
+- Próximo efeito: brain.md atualizado; perguntas abertas sobre preço e
+  histórico da conta.
+
+## 2026-09-29 — [F] Expert afirma que o Studio é seguido por profissionais e alunas
+- Operando: sócias
+- O quê: a escolha do Studio como canal principal foi sugestão da expert,
+  que afirma que muitos profissionais e alunas o seguem.
+- Próximo efeito: a [H] de descompasso de público perde força; mantemos a
+  decisão e validamos a proporção com enquete antes de investir em tráfego.
