@@ -86,3 +86,27 @@ Tipos extras:
   que afirma que muitos profissionais e alunas o seguem.
 - Próximo efeito: a [H] de descompasso de público perde força; mantemos a
   decisão e validamos a proporção com enquete antes de investir em tráfego.
+
+## 2026-09-29 — [F] Preços, base de ex-alunas e plano de páginas
+- Operando: sócias + CIP Strategist
+- O quê: básico R$ 297; volumes R$ 347; combo futuro R$ 497 (russo +
+  híbrido + mega volume + bônus volumes tecnológicos + ebook campeonato +
+  módulo preço/administrativo). Presencial ~R$ 1.500. 500+ alunas formadas
+  no presencial. Só a Ana está vinculada às contas Hotmart. Páginas Hotmart
+  serão reestruturadas e página de vendas criada após fechar a promessa.
+- Próximo efeito: [H] ex-alunas presenciais são o primeiro público de
+  venda (sem tráfego); [H] módulo administrativo pode ser o ângulo central
+  da promessa. Questionário da expert anexado ainda não lido (falha de
+  ferramenta).
+
+## 2026-09-29 — [A] Hipótese refutada: ex-alunas presenciais não compram os cursos
+- Operando: sócias + CIP Strategist
+- O quê: sócias informaram que o presencial (~R$ 1.500) já cobre o
+  conteúdo dos 2 cursos digitais. A [H] "ex-alunas são o primeiro público
+  de venda" foi descartada.
+- Aprendizado de processo: o Strategist assumiu que o presencial era só o
+  básico sem verificar o escopo. Antes de propor público, confirmar o que
+  cada produto (inclusive o presencial) já entrega.
+- Próximo efeito: ex-alunas passam a ser ativo de prova e distribuição
+  (depoimentos, indicação/afiliação). Público comprador do digital a
+  definir: [H] quem não pode pagar R$ 1.500 ou se deslocar.

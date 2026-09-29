@@ -4,16 +4,18 @@
 > o porquê em `journal.md`. Marcas: [F] fato (com fonte) · [H] hipótese ·
 > [D] decisão · [A] aprendizado.
 
-**Última atualização:** 2026-09-29 — onboarding em andamento (páginas
-Hotmart lidas; preço, histórico de vendas e dados de audiência pendentes).
+**Última atualização:** 2026-09-29 — onboarding em andamento (preços e
+base presencial conhecidos; ex-alunas descartadas como compradoras;
+questionário da expert ainda não lido).
 
 ## Próximo passo
 
-1. Sócias respondem: preço dos cursos, histórico da conta "Estetica e Cia
-   Ead" / vendas de 2023, e colam em `inputs/` os insights do Instagram do
-   Studio (idade, cidade, alcance médio de stories).
-2. Levantar quantas alunas presenciais existem e se há contato delas.
-3. Com isso, CIP entrega o diagnóstico e a recomendação do primeiro
+1. CIP lê o questionário de extração do método (anexo enviado pelas
+   sócias; salvar em `inputs/`).
+2. Definir quem é o comprador do digital (quem não pode pagar/se deslocar
+   para o presencial?) — responder perguntas abertas sobre origem e
+   objeções de quem não fecha o presencial.
+3. CIP entrega o diagnóstico, a proposta de promessa e o primeiro
    movimento de receita.
 
 ## Modelo de negócio
@@ -27,6 +29,10 @@ Hotmart lidas; preço, histórico de vendas e dados de audiência pendentes).
 ## Expert
 
 - [F] Ana Flávia Batista. Forte autoridade no presencial; ministra cursos presenciais; atende no próprio Studio. (fonte: sócias)
+- [F] **Mais de 500 alunas formadas no presencial.** (fonte: sócias, 2026-09-29)
+- [F] O presencial (~R$ 1.500) **já aborda o conteúdo dos 2 cursos digitais** → ex-alunas presenciais **não** são compradoras dos cursos. (fonte: sócias, 2026-09-29)
+- [H] As ex-alunas são ativo de **prova e distribuição**, não de venda direta: depoimentos, resultados, indicação (possível programa de afiliadas/indicação).
+- [H] Ex-alunas podem se interessar apenas pelo que o presencial não cobre (módulo administrativo, volumes tecnológicos, ebook campeonato) — só se esses itens não fizerem parte do presencial.
 - [F] Agenda corrida, mas consegue liberar algumas tardes para gravar e produzir conteúdo. (fonte: sócias, 2026-09-29)
 - [H] O tempo dela é o recurso mais escasso do projeto → gravações devem ser planejadas em lote, com roteiro pronto, para render várias peças por tarde.
 
@@ -34,7 +40,18 @@ Hotmart lidas; preço, histórico de vendas e dados de audiência pendentes).
 
 - [F] Dois cursos digitais gravados na Hotmart; sócias informam que **vendas não foram iniciadas** pela coprodução. (fonte: sócias, 2026-09-29)
 - [F] Conta produtora na Hotmart: "Estetica e Cia Ead"; tag do produto 1 inclui "sinceronaflix". (fonte: página Hotmart, 2026-09-29)
-- [F] Os dois produtos têm avaliações de alunos datadas de fev/2023 → houve compradores no passado. (fonte: página Hotmart, 2026-09-29) — _ver perguntas abertas._
+- [F] Não há outro produtor vinculado às contas — apenas a Ana. (fonte: sócias, 2026-09-29)
+- [F] Os dois produtos têm avaliações de alunos datadas de fev/2023 → houve compradores no passado. (fonte: página Hotmart, 2026-09-29)
+- [D] Páginas da Hotmart serão reestruturadas e será criada uma página de vendas própria **depois que a promessa for fechada**. (quem: sócias, 2026-09-29)
+
+### Preços e escada de oferta
+- [F] Curso básico (Lash Essencial): **R$ 297**. (fonte: sócias, 2026-09-29)
+- [F] Curso volumes (Volume 3 em 1): **R$ 347**. (fonte: sócias, 2026-09-29)
+- [F] Combo futuro: **R$ 497** — Volume Russo + Volume Híbrido + Mega Volume + bônus cursos de volumes tecnológicos + ebook campeonato de cílios + módulo administrativo (preço + administrativo). (fonte: sócias, 2026-09-29)
+- [F] Curso presencial: ~**R$ 1.500**. (fonte: sócias, 2026-09-29)
+- [H] O presencial a R$ 1.500 é uma âncora forte: o digital custa ~20–33% do presencial, com a mesma professora.
+- [H] O módulo "preço + administrativo" (precificar, gerir, lucrar) pode ser mais desejado que mais uma técnica — é a dor de quem já sabe fazer e não fatura.
+- [H] Diferença de só R$ 50 entre básico e volumes e de R$ 150 para o combo torna o combo a escolha óbvia; os preços individuais podem funcionar mais como âncora do que como produtos.
 
 ### 1. Formação Lash Essencial by Ana Flávia Batista (iniciante)
 https://hotmart.com/pt-br/marketplace/produtos/curso-de-alongamento-de-cilios-por-ana-flavia-batista/R31388413B
@@ -52,7 +69,8 @@ https://hotmart.com/pt-br/marketplace/produtos/curso-avancado-de-volume-3-em-1/O
 
 ### Leitura
 - [H] Os dois cursos formam uma escada natural: iniciante (Lash Essencial) → avançado (Volume 3 em 1).
-- [H] O avançado pode ser a venda mais fácil no curto prazo para profissionais e ex-alunas presenciais.
+- [H] O avançado pode ser a venda mais fácil no curto prazo para profissionais que ainda não fizeram o presencial (não para ex-alunas — ver seção Expert).
+- [H] Comprador provável do digital: quem admira a Ana mas não pode pagar R$ 1.500 ou não pode se deslocar até o presencial.
 - [H] As páginas atuais não vendem: sem prova, sem depoimentos, sem módulos no avançado, sem a autoridade presencial da Ana Flávia, com inconsistência de certificado. Não servem como página de vendas da coprodução.
 
 ## Público / Persona
@@ -62,7 +80,7 @@ https://hotmart.com/pt-br/marketplace/produtos/curso-avancado-de-volume-3-em-1/O
   - alunas/profissionais (querem aprender ou evoluir na técnica) — este é o público dos cursos.
 - [F] Segundo a expert, muitos profissionais do ramo e alunas seguem o Instagram do Studio; a escolha do Studio como canal foi sugestão dela. (fonte: expert via sócias, 2026-09-29)
 - [H] A proporção profissionais × clientes finais no Studio ainda não foi medida. Validar com enquete nos stories antes de investir em tráfego.
-- [H] Ex-alunas presenciais são o público mais quente para o curso avançado.
+- ~~[H] Ex-alunas presenciais são o público mais quente para o curso avançado.~~ Refutada: o presencial já cobre os 2 cursos. (2026-09-29)
 
 ## Mercado
 
@@ -89,11 +107,12 @@ _Não definido._ Depende do conteúdo dos cursos e do diagnóstico de público.
 
 ## Perguntas abertas
 
-- Preço atual de cada curso?
-- Quem é "Estetica e Cia Ead" (conta produtora) e o que é "sinceronaflix"? Os cursos já foram vendidos antes por outra parceria/plataforma? Quem recebe hoje as vendas?
+- De onde vêm as alunas do presencial (cidade/região)? Quem pergunta pelo curso e não fecha — por preço ou distância?
+- O presencial cobre o módulo administrativo, os volumes tecnológicos e o ebook campeonato?
+- As ex-alunas topariam indicar/afiliar-se ou gravar depoimento novo?
+- Quem comprou em 2023 (avaliações)? Há lista de compradoras na Hotmart?
 - Os cursos dão certificado (a página do iniciante se contradiz)?
-- Quantas alunas presenciais já passaram pelos cursos? Há WhatsApp/e-mail delas?
-- Preço do curso presencial (âncora de valor)?
+- O combo de R$ 497 inclui o básico? Os cursos de volume do combo são o mesmo "Volume 3 em 1" ou gravações separadas? O módulo administrativo já está gravado?
 - Perfil real da audiência do Studio (insights: idade, cidade, % profissionais)?
 - Alcance médio de stories em cada perfil?
 - Meta de receita e prazo esperados pelas sócias e pela expert?
