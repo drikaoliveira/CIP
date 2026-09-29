@@ -14,8 +14,9 @@ Faltam: comprador do digital, suporte no online, provas.
    promessa em "Posicionamento" e respondem: como o online entrega o
    "pegar na mão" (correção por foto? grupo? live?) e quem pergunta pelo
    presencial e não fecha.
-2. Experimento de demanda no Instagram (enquete + lista de espera) para
-   decidir qual oferta vai primeiro: iniciante ou profissional.
+2. Aprovar com a Ana e rodar o teste de demanda da semana 1
+   (`work/teste-demanda-semana-1.md`); registrar resultados em `inputs/`.
+3. Ao fim da semana: CIP analisa e decide a primeira oferta.
 
 ## Modelo de negócio
 

@@ -132,3 +132,17 @@ Tipos extras:
   online é a principal prova contra a objeção "dá para aprender online?".
 - Próximo efeito: validar com a expert na próxima reunião; definir qual
   oferta vai primeiro por experimento de demanda no Instagram.
+
+## 2026-09-29 — [EXP] Teste de demanda — semana 1 (proposto, aguardando aprovação)
+- Operando: sócias + CIP Strategist
+- Hipóteses: (1) há demanda no Studio para vender sem tráfego; (2) uma
+  persona (iniciante × profissional) responde claramente mais; (3) a
+  história "aprendi online" reduz a objeção ao online.
+- Ação: 7 dias de stories (história → iniciante → profissional → lista de
+  espera no WhatsApp com links COMEÇAR/EVOLUIR), enquetes e caixa de
+  perguntas. Custo zero; uma tarde de gravação.
+- Critério (provisório): inscrições ≥ 5% das views médias = sinal forte;
+  < 2% = rever promessa/canal; vencedora com ≥ 1,5× a outra.
+- [D proposta] Não revelar preço na semana 1.
+- Entrega: `work/teste-demanda-semana-1.md`. Status: precisa aprovação da expert.
+- Resultado: _pendente_.
